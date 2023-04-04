@@ -28,7 +28,7 @@ python main.py --NUM_EPOCHS=50
 Run the training by running 
 
 ```
-python test.py
+python test.py --RUN_ID=12
 ```
 
 Pre-trained model is available in `./checkpoints` directory.
