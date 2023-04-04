@@ -1,9 +1,10 @@
 # 3D Semantic Segmentation
 
 ## Environment
+You can find the dependencies in `environment.yml` file
 
 ## Downloading Data
-Download the Electron Microscopy Dataset as multipage .tif files from [here](https://www.epfl.ch/labs/cvlab/data/data-em/)
+Download the Electron Microscopy Dataset as multipage .tif files from [here](https://www.epfl.ch/labs/cvlab/data/data-em/) in the `./data` directory. 
 
 ## Visualizing Data 
 Visualize the .tif files by running 
@@ -30,3 +31,4 @@ Run the training by running
 python test.py
 ```
 
+Pre-trained model is available in `./checkpoints` directory.
