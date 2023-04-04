@@ -1,7 +1,11 @@
 # 3D Semantic Segmentation
 
 ## Environment
-You can find the dependencies in `environment.yml` file
+You can find the dependencies in `environment.yml` file. They can be downloaded by running 
+
+```
+conda env create -f environment.yml
+```
 
 ## Downloading Data
 Download the Electron Microscopy Dataset as multipage .tif files from [here](https://www.epfl.ch/labs/cvlab/data/data-em/) in the `./data` directory. 
