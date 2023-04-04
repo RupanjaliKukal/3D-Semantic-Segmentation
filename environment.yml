@@ -119,4 +119,3 @@ dependencies:
       - tqdm==4.65.0
       - werkzeug==2.2.3
       - zipp==3.15.0
-prefix: /home/rupanjali/miniconda3/envs/interview
